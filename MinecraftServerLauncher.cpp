@@ -7,7 +7,7 @@
 #include <cstdlib>
 #include <io.h>
 #include <fcntl.h>
-#include <algorithm>  // 添加缺失的头文件
+#include <algorithm>
 
 #pragma comment(lib, "comctl32.lib")
 #pragma comment(lib, "advapi32.lib")
